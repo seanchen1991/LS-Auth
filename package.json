@@ -11,7 +11,9 @@
   "dependencies": {
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.17.1",
+    "cors": "^2.8.4",
     "express": "^4.15.2",
+    "jshint": "^2.9.5",
     "jwt-simple": "^0.5.1",
     "mongoose": "^4.9.8",
     "passport": "^0.3.2",
